@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="True">truevalue</string>
+    <string name="toasting">true</string>
+    <string name="truem">True</string>
+    <string name="nextb">Next</string>
+    <string name="qsn1">click next for other text</string>
+    <string name="qsn2">yeah you are good! keep going..</string>
+    <string name="qsn3"> you are almost there</string>
+    <string name="qsn4">last one!</string>
+    <string name="qsn5">TADA!</string>
+    <string name="bro">false ma</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hint">HINT</string>
+    <string name="hinttxt">You are about to view hint. Sure?</string>
+    <string name="yes">YES</string>
+</resources>
